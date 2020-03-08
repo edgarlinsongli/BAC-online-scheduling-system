@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj": {}
+    "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC-online-scheduling-system\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj": {
+    "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC-online-scheduling-system\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj",
+        "projectUniqueName": "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC-online-scheduling-system\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj",
         "projectName": "BAC_Web_App",
-        "projectPath": "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj",
+        "projectPath": "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC-online-scheduling-system\\BAC_Web_App\\BAC_Web_App\\BAC_Web_App.csproj",
         "packagesPath": "C:\\Users\\panda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC_Web_App\\BAC_Web_App\\obj\\",
+        "outputPath": "C:\\Users\\panda\\Desktop\\UNIVERSE\\STUDY\\2020spring\\SE306\\Project\\BAC-online-scheduling-system\\BAC_Web_App\\BAC_Web_App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\panda\\AppData\\Roaming\\NuGet\\NuGet.Config",
