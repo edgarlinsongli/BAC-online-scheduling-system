@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BAC_Web_App
 {
+    // changes here
     public class Startup
     {
         public Startup(IConfiguration configuration)
