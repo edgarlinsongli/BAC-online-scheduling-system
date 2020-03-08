@@ -14,7 +14,7 @@ using Microsoft.EntityFrameworkCore;
 namespace BAC_Web_App
 {
     // hello lalla 
-    // what
+    // what linsogn li
     public class Startup
     {
         public Startup(IConfiguration configuration)
